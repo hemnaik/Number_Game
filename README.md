@@ -1,12 +1,12 @@
 # Number Game
-## Purpose of Development  
+## PURPOSE OF DEVELOPMENT
 - Number Game is developed for the gusesing purpose of players for enhancing theri mental truma and brain storming activities.
-## Prerequisites 
+## PREREQUISITES
 - Swing Programming
 - Java Development Kit
 - Configuration Setting
 - Basic Java programming concepts
-## Introduction to Game 
+## INTRODUCTION
 - On appropriate guess the prompt "Guess is Appropriate" will he displayed.
 - On mismatch of guess the prompt "Guess is inappropriate" will be displayed.
 - Desired score will unlock next level.
@@ -30,7 +30,7 @@
  ### Play Again Prompt 
  ![Screenshot (155)](https://github.com/user-attachments/assets/429cb014-195b-4899-98d6-f3e883d8968b)
 
- ## There are three levels
+ ## THERE ARE THREE LEVELS
   ### Level - 1
   - Number of attempts will be 5.
   - Guessing range is from 1 to 10.

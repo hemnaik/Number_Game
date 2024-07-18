@@ -1,5 +1,5 @@
 # Number Game 
-## PURPOSE OF DEVELOPMENT
+## PURPOSE OF DEVELOPMENT 
 - Number Game is developed for the gusesing purpose of players for enhancing theri mental truma and brain storming activities.
 ## PREREQUISITES
 - Swing Programming

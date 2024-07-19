@@ -6,7 +6,7 @@
 - Java Development Kit
 - Configuration Setting
 - Basic Java programming concepts
-## INTRODUCTION
+## INTRODUCTION 
 - On appropriate guess the prompt "Guess is Appropriate" will he displayed.
 - On mismatch of guess the prompt "Guess is inappropriate" will be displayed.
 - Desired score will unlock next level.
